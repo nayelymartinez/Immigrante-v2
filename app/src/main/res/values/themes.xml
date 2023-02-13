@@ -1,0 +1,37 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ImmigranteV2" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#0d47a1</item>
+        <item name="colorPrimaryVariant">#002171</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#ff6434</item>
+        <item name="colorSecondaryVariant">#dd2c00</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.ImmigranteV2.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.ImmigranteV2.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.ImmigranteV2.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
+
+    <!--    &lt;!&ndash;?xml version="1.0" encoding="UTF-8"?&ndash;&gt;-->
+    <!--<resources>-->
+    <!--<color name="primaryColor">#0d47a1</color>-->
+    <!--<color name="primaryLightColor">#5472d3</color>-->
+    <!--<color name="primaryDarkColor">#002171</color>-->
+    <!--<color name="secondaryColor">#dd2c00</color>-->
+    <!--<color name="secondaryLightColor">#ff6434</color>-->
+    <!--<color name="secondaryDarkColor">#a30000</color>-->
+    <!--<color name="primaryTextColor">#ffffff</color>-->
+    <!--<color name="secondaryTextColor">#ffffff</color>-->
+    <!--</resources>-->

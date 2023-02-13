@@ -1,0 +1,21 @@
+<resources>
+    <!-- Navigation -->
+    <string name="app_name">Immigrante v2</string>
+    <string name="title_home">Home</string>
+    <string name="title_plan">Plan</string>
+    <string name="title_notify">Notify</string>
+
+    <!-- Emergency Button -->
+    <string name="emergency">Emergency</string>
+    <string name="emergency_btn_description">"Press to Alert Contacts of Emergency"</string>
+    <string name="emergency_btn_txt">EMERGENCY</string>
+    <string name="emergency_btn_subtxt">Tap to begin alert.</string>
+    <string name="title_activity_item_detail_host">ItemDetailHostActivity</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+
+    <!-- Plan section -->
+    <string name="plan_household_info">Household Info</string>
+    <string name="plan_forms">Forms</string>
+    <string name="plan_imp_docs">Important Documents</string>
+</resources>

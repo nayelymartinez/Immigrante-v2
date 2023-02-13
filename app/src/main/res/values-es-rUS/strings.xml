@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Immigrante v2</string>
+    <string name="title_home">Casa</string>
+    <string name="title_plan">Plan</string>
+    <string name="title_notify">Notifica</string>
+
+    <!-- Emergency Button -->
+    <string name="emergency">Emergencia</string>
+    <string name="emergency_btn_description">Empuje para alertar contactos de emergencia</string>
+    <string name="emergency_btn_txt">EMERGENCIA</string>
+    <string name="emergency_btn_subtxt">Empuje para alertar contactos de emergencia.</string>
+
+    <!-- Plan section -->
+    <string name="plan_household_info">Informacion de Hogar</string>
+    <string name="plan_forms">Formas</string>
+    <string name="plan_imp_docs">Documentos Importantes</string>
+</resources>
